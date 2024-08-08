@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+    margin: auto;
+    padding: auto;
+    border: 2 orange;
+    text-wrap: wrap;
+    text-decoration-color: chocolate;
+    align-items: center;
+    align-content: center;
+}
